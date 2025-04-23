@@ -33,4 +33,18 @@ Esse é o caminho dentro do site
 **• Parâmetros:**  
 **Não há parâmetros nesta URL.**  
 
+# Tripé da Web
+
+O "tripé da web" é composto por três tecnologias fundamentais para o desenvolvimento de páginas web: **HTML**, **CSS** e **JavaScript**.
+
+### 1. HTML
+- **Função**: Estrutura o conteúdo da página web (ex: títulos, parágrafos, imagens).
+  
+### 2. CSS
+- **Função**: Estiliza e define a aparência da página (ex: cores, fontes, layout).
+
+### 3. JavaScript
+- **Função**: Adiciona interatividade e dinamismo à página (ex: eventos, animações, comunicação com o servidor).
+
+Essas três tecnologias trabalham juntas para criar páginas web modernas, organizadas e interativas.
 
