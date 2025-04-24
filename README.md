@@ -48,3 +48,24 @@ O "tripé da web" é composto por três tecnologias fundamentais para o desenvol
 
 Essas três tecnologias trabalham juntas para criar páginas web modernas, organizadas e interativas.
 
+# Respostas - Estrutura HTML
+
+**a. Quais elementos são os vizinhos de `<main>`?**  
+- `<header>`  
+- `<footer>`
+
+**b. Quais elementos são os ancestrais de `<ul>`?**  
+- `<nav>`  
+- `<header>`  
+- `<body>`  
+- `<html>`
+
+**c. Quais elementos são filhos de `<header>`?**  
+- `<h1>`  
+- `<nav>`
+
+**d. Qual o nível de profundidade do aninhamento entre `<html>` e `<strong>` do primeiro artigo?**  
+- Nível 6  
+  (`<html> → <body> → <main> → <article> → <p> → <strong>`)
+
+
